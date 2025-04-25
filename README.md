@@ -67,6 +67,9 @@ felaktig data i body till servern.
 **För Väl Godkänt:**
 * VG-kravet för att söka bland anteckningar är uppfyllt.
 
+**För att få en guldstjärna:**
+* Ni validerar inkommande data med Joi.
+
 ## Inlämning
 
 Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast **02/5 23:59**.
