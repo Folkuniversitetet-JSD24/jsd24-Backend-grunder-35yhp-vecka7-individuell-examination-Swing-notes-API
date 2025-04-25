@@ -72,4 +72,4 @@ felaktig data i body till servern.
 
 ## Inlämning
 
-Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast **02/5 23:59**.
+Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast **02/5 22:59**.
