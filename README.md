@@ -18,7 +18,7 @@ Du ska i denna individuella inlämningsuppgift göra ett API för att spara ante
 
 ### Endpoints
 
-Alla endpoints förutom skapa konto kräver att man är inloggad.
+Alla endpoints förutom skapa konto och /login kräver att man är inloggad.
 
 |  Endpoint |  Metod |  Beskrivning |
 |---|---|---|
