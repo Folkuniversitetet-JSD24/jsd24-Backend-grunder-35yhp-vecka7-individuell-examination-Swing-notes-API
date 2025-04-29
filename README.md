@@ -72,7 +72,7 @@ felaktig data i body till servern.
 
 ## Inlämning
 
-Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast **02/5 22:59**.
+Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast **05/5 22:59**.
 
 ### Redovisning
 Sker genom att 5 random elever redovisar under lektions tid den 02/5, (så alla måste förbereda) alla andra: inspelad redovisning och lämnas in senast 05/5 kl 22:59 till läraren. MAX 15 min redovisning/inspelning.
